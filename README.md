@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developement" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey,+I'm+Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developement" alt="Typing SVG"/>
 
 <p align="center">
   <a href="mailto:shrreyasgurav@gmail.com">
@@ -21,32 +21,47 @@
 
 
 
-## Tech Stack & Tools
+## Tech Stack & Tools  
 
 <div align="center">
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+### Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" />
+</p>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase" />
+### Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" />
+</p>
 
-###  Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,notion" />
+### Development Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,notion&perline=7" />
+</p>
 
 </div>
 
 
 
-## GitHub Stats
+
+## GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgurav&layout=compact&langs_count=8&theme=tokyonight"/>
+
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgurav&layout=compact&theme=radical&hide_border=true" height="180em" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=shreyasgurav&theme=radical&hide_border=true" height="180em" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgurav&bg_color=1a1b27&color=ffffff&line=ff4b81&point=f9d423&hide_border=true" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasgurav&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+
 
 
 
