@@ -60,7 +60,7 @@
 ## What I'm Up To?
 
 -  **Currently Working On**: AI powered Personal Intelligence (PAI)
--  **Exploring**: funcing opportunities
+-  **Exploring**: funding opportunities
 
 ---
 
