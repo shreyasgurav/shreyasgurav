@@ -24,23 +24,11 @@
 ## Tech Stack & Tools  
 
 <div align="center">
-
-### Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" />
-</p>
-
-### Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" />
-</p>
-
-### Development Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,notion&perline=7" />
-</p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,mongodb,postgres,firebase,git,github,vscode,postman,vercel,figma,notion&perline=10" />
+  </p>
 </div>
+
 
 
 
