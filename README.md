@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+AI;Problem+Solver;Creative+Thinker" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developement" alt="Typing SVG"/>
 
 <p align="center">
   <a href="mailto:shrreyasgurav@gmail.com">
@@ -17,16 +17,9 @@
 
 </div>
 
----
 
-## About Me
 
--  **Engineering Student** at KJ Somaiya School of Engineering, Mumbai
--  **Currently Exploring** the fields of Artificial Intelligence and Data Science
--  Working on projects that blend creativity with practicality
--  Building tech solutions that contribute to solving real-world challenges
 
----
 
 ## Tech Stack & Tools
 
@@ -43,7 +36,7 @@
 
 </div>
 
----
+
 
 ## GitHub Stats
 
@@ -55,12 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasgurav&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
 
-## What I'm Up To?
 
--  **Currently Working On**: AI powered Personal Intelligence (PAI)
--  **Exploring**: funding opportunities
 
----
+
 
