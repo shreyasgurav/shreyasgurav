@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey,+I'm+Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developement" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey,+I'm+Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developer;UI/UX" alt="Typing SVG"/>
 
 <p align="center">
   <a href="mailto:shrreyasgurav@gmail.com">
