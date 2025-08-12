@@ -25,7 +25,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,mongodb,postgres,firebase,git,github,vscode,postman,vercel,figma,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,firebase,git,github,vscode,postman,vercel,figma,notion&perline=9" />
   </p>
 </div>
 
