@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="mailto:shrreyasgurav@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
   </a>
   <a href="https://www.linkedin.com/in/shreyasdgurav/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
 </p>
 
@@ -48,11 +48,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgurav&bg_color=1a1b27&color=ffffff&line=ff4b81&point=f9d423&hide_border=true" />
 
 </div>
-
-
-
-
-
-
-
-
