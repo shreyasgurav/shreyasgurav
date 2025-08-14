@@ -4,14 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey,+I'm+Shreyas+Gurav;Full-Stack+Developer;Applied+AI;Product+Developer;UI/UX" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="mailto:shrreyasgurav@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
-  </a>
-  <a href="https://www.linkedin.com/in/shreyasdgurav/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
-  </a>
-</p>
+
 
 
 
