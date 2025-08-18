@@ -2,6 +2,7 @@
 
 
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey,+I'm+Shreyas+Gurav;Full-Stack+Developer;Building+Applied+AI+Projects;Product+Developer;UI/UX" alt="Typing SVG"/>
 
 
@@ -18,7 +19,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,firebase,git,github,vscode,postman,vercel,figma,notion&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,firebase,git,github,vscode,postman,vercel,figma,notion,swift&perline=9" />
   </p>
 </div>
 
