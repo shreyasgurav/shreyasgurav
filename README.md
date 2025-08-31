@@ -38,7 +38,5 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=shreyasgurav&theme=radical&hide_border=true" height="180em" />
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgurav&bg_color=1a1b27&color=ffffff&line=ff4b81&point=f9d423&hide_border=true" />
 
 </div>
